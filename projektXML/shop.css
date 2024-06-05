@@ -1,0 +1,63 @@
+.header{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(224, 220, 214);
+}
+.header a:link, a:visited {
+    text-decoration: none;
+    color:rgb(58, 56, 56);
+    font-size: 28px;
+
+}
+
+li{
+    display: inline-block;
+    margin: 10px 10px;
+    padding-right: 10px;
+}
+.dresovi{
+    padding-top: 50px;
+}
+footer{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(224, 220, 214);
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+.image-cell {
+    text-align: center;
+    padding: 0;
+    width: 50px; 
+}
+.image-cell img {
+    width: 100px; 
+}
+.image-cell a {
+    display: block;
+    margin-top: 5px; 
+}
+.ponuda {
+    margin-bottom: 200px; 
+}
+footer {
+    padding-top: 20px; 
+}
+button{
+    border: none;
+    color: white;
+    text-decoration: none;
+    border-radius: 12px;
+    
+
+}
+.ponuda a{
+    text-decoration: none;
+    color: rgb(58, 56, 56);
+}

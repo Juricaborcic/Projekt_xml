@@ -1,0 +1,50 @@
+[
+    {
+        "dres": "Barcelona Home Kit",
+        "godina":"2021/2022",
+        "velicine":"S,M,XL",
+        "cijena":"49.99€"
+    },
+
+    {
+        "dres": "Bayern Munich 3rd Kit",
+        "godina":"2013/2014",
+        "velicine":"L,XL",
+        "cijena":"59.99€"
+    },
+
+    {
+        "dres": "A.C. Milan Home Kit",
+        "godina":"2005/2006",
+        "velicine":"M,XXL",
+        "cijena":"85€"
+    },
+
+    {
+        "dres": "PSG Home Kit",
+        "godina":"2023/2024",
+        "velicine":"XS,M,L,XL,XXL",
+        "cijena":"69.99€"
+    },
+
+    {
+        "dres": "Real Madrid Home Kit",
+        "godina":"2023/2024",
+        "velicine":"XS,S,M,L,XL,XXL",
+        "cijena":"99.99€"
+    },
+
+    {
+        "dres": "Spain Home Kit",
+        "godina":"2010/2011",
+        "velicine":"L,XL,XXL",
+        "cijena":"119.99€"
+    },
+
+    {
+        "dres": "Manchester United Home Kit",
+        "godina":"1995/1996",
+        "velicine":"M,L",
+        "cijena":"169.99€"
+    }
+]

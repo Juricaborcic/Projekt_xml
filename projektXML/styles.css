@@ -1,0 +1,50 @@
+
+.header{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(224, 220, 214);
+}
+.header a:link, a:visited {
+    text-decoration: none;
+    color:rgb(58, 56, 56);
+    font-size: 28px;
+
+}
+
+li{
+    display: inline-block;
+    margin: 10px 10px;
+    padding-right: 10px;
+}
+.naslov{
+    font-size: 62px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: calc(var(--bs-gutter-x)* .5);
+}
+.headline{
+    color:rgb(214, 108, 108);
+    text-align: center;
+    font-size: 38px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: calc(var(--bs-gutter-x)* .5);
+}
+img{
+    width: 100%;
+}
+.novosti{
+    padding-bottom: 50px;
+}
+.zadnji{
+    margin-bottom: 200px;
+}
+footer{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(224, 220, 214);
+}
